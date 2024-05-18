@@ -1,13 +1,12 @@
 {
-	"preprocessing": true,
+	"preprocessing": false,
 	"algorithm": "CloFast",
 	"minSupport": 0.1,
 	"minCoverage": 0.05,
 	"metric": "cohesion",
-    "context": [
-		"target.id",
-		"target.name",
-		"target.innerText",
-		"target.sheetName"
+	"context": [
+		"case:concept:name",
+    	"category",
+    	"application"
     ]
 }
