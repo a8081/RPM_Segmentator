@@ -1,5 +1,6 @@
 out/artifacts/RPM_Segmentator_jar/tom/
 out/artifacts/RPM_Segmentator_jar/reimbursement.txt
+out/artifacts/RPM_Segmentator_jar/input.txt
 out/artifacts/RPM_Segmentator_jar/TEMP.dot
 out/artifacts/RPM_Segmentator_jar/logs/**_preprocessed.csv
 out/artifacts/RPM_Segmentator_jar/logs/**_segmented.csv
